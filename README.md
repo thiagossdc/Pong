@@ -6,7 +6,7 @@ HTML5 Canvas para o render
 
 Vanilla JavaScript compilado a partir de TypeScript
 
-git clone https://github.com/seu-usuario/pong-typescript.git
+git clone https://github.com/user/pong-typescript.git
 cd pong-typescript
 npm install -g typescript
 tsc game.ts
